@@ -1,0 +1,19 @@
+{
+  "name": "pipeline-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussainsayyed/pipeline-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hussainsayyed/pipeline-new/issues"
+  },
+  "homepage": "https://github.com/Hussainsayyed/pipeline-new#readme",
+  "description": ""
+}
